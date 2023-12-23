@@ -1,0 +1,13 @@
+C:\Users\Comp\source\repos\12232023\CSTASK2\bin\Debug\netcoreapp3.1\CSTASK2.exe
+C:\Users\Comp\source\repos\12232023\CSTASK2\bin\Debug\netcoreapp3.1\CSTASK2.deps.json
+C:\Users\Comp\source\repos\12232023\CSTASK2\bin\Debug\netcoreapp3.1\CSTASK2.runtimeconfig.json
+C:\Users\Comp\source\repos\12232023\CSTASK2\bin\Debug\netcoreapp3.1\CSTASK2.runtimeconfig.dev.json
+C:\Users\Comp\source\repos\12232023\CSTASK2\bin\Debug\netcoreapp3.1\CSTASK2.dll
+C:\Users\Comp\source\repos\12232023\CSTASK2\bin\Debug\netcoreapp3.1\CSTASK2.pdb
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.AssemblyInfo.cs
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.dll
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.pdb
+C:\Users\Comp\source\repos\12232023\CSTASK2\obj\Debug\netcoreapp3.1\CSTASK2.genruntimeconfig.cache
